@@ -12,7 +12,7 @@ Case "172.16.1.1"
 	strServerName = "server-01/"  'The name of the server/share that you access your documents through
 
 'Office 2
-Case "172.16.20.22"
+Case "172.16.2.1"
 	strOfficeName = "My Second Office"
 	SEARCH_CATALOG = "Idnex_in_Office_2"
 	strDriveLetter = "x:/data/document/"

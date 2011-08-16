@@ -5,6 +5,8 @@ Retriever is an front-end for Microsoft Indexing Server, allowing your staff to 
 
 For Retriever to do anything, you must have installed the Indexing Service and created a catalog.  Indexing server can handle many file types through additional iFilters which can be downloaded for free or paid for.
 
+Indexing Server will obey file permissions, so if you set up IIS to use pass-through authentication, you can index your entire file store and users will only get results that they have access to.
+
 For some more details, see [my answer on Stack Overflow](http://stackoverflow.com/questions/6817291/indexing-files-and-searching-them-through-web-application/6830824#6830824), which led to this being open sourced.
 
 Install
