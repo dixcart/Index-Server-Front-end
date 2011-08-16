@@ -1,0 +1,123 @@
+.location{
+  color: #008000;
+
+}
+.summary{
+  font-size: xx-small;
+  font-style:italic;
+}
+body{
+  font-family:Arial, Helvetica, sans-serif;
+  	margin-left: 0px;
+	margin-right: 0px;
+	margin-top:0px;
+	margin-bottom: 0px;
+  }
+
+.resultsline {
+	color: #FFFFFF;
+	background-color: #999999;
+	text-align: right;
+}
+.searchtimer {
+	font-size: xx-small;
+	color: #FFFFFF;
+	background-color: #999999;
+	text-align: center;
+}
+.hooouse {
+	font-size: xx-small;
+}
+.search0 {
+	font-weight: bold;
+	background-color: #FFFF00;
+}
+.search1 {
+	font-weight: bold;
+	background-color: #00FFFF;
+}
+.search2 {
+	font-weight: bold;
+	background-color: #66FF66;
+}
+.search3 {
+	font-weight: bold;
+	background-color: #FF9900;
+}
+.search4 {
+	font-weight: bold;
+	background-color: #FF0066;
+}
+.search5 {
+	font-weight: bold;
+	background-color: #660099;
+}
+.search6 {
+	font-weight: bold;
+	background-color: #FFCCFF;
+}
+h1 {
+	font-size: large;
+}
+.searchterms {
+	color: #FFFFFF;
+	background-color: #999999;
+}
+td {
+	font-size: x-small;
+}
+.helpcell {
+	border: 1px solid #000000;
+}
+
+
+td.navbar {
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align:center;
+	font-size: x-small;
+}
+td.navbar a:link {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+td.navbar a:visited {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+td.navbar.style2 {
+	font-size: 10pt;
+}
+
+td.searchresults {
+	padding: 0px;
+}
+.filename {
+	font-weight:bold;
+	font-size:14px;
+}
+td.footer {
+	text-align:center;
+	background:#000000;
+	color:#FFFFFF;
+}
+.scroll {
+	height: 100%;
+	width: auto;
+	word-wrap: break-word;
+	overflow: auto;
+	padding: 10px;
+}
+hr {
+	color:#FFFFFF;
+	height: 2px;
+}
+.filetypes {
+	text-align: left;
+	margin-left: 20px;
+}

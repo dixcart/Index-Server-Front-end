@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>DTS Retriever</ShortName>
+<Image height="16" width="16" type="image/icon">http://www.dixcart.com/favicon.ico</Image>
+<Description>Example Retriever Provider</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Url type="text/html" template="http://your.domain.com/and/path/?q={searchTerms}&amp;numberofresults=10&amp;orderby=rank&amp;order=d&amp;clientcode=&amp;filetypesall=all" /> 
+</OpenSearchDescription>
